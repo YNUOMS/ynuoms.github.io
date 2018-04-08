@@ -1,0 +1,26 @@
+
+defaults: &defaults
+  docker:
+    - image: circleci/ruby:2.4.1-node-browsers
+
+version: 2
+jobs:
+  build:
+    <<: *defaults
+
+    working_directory: ~/repo/
+    
+    steps:
+      - checkout
+      
+      - run: bundle install
+      - run: jekyll build
+      - run: cp -r _site /tmp/_site
+
+      - run: git checkout -b gh-pages origin/gh-pages
+      - run: cp -r /tmp/_site/* ./
+      
+      - run: git config --global user.email "thiswind@gmail.com"
+      - run: git config --global user.name "thiswind"
+      - run: git add . && git commit -m 'site update'
+      - run: git push origin gh-pages:gh-pages
