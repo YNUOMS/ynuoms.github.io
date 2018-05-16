@@ -1,0 +1,12 @@
+
+defaults: &defaults
+  docker:
+    - image: circleci/ruby:2.4.1-node-browsers
+
+version: 2
+jobs:
+  build:
+    <<: *defaults    
+    steps:
+      - run: echo "nothing to do."
+
