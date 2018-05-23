@@ -5,3 +5,7 @@
 - name: 另一个测试服务
   description: 另一个测试的描述
   url: http://www.itc.ynu.edu.cn
+  
+- name: 信息化服务门户
+  description: 测试
+  url: http://www.itc.ynu.edu.cn
