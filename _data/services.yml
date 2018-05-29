@@ -2,9 +2,9 @@
   description: 在您正确线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
   url: https://jiandaoyun.com/f/5afe3659f9e8ef12024a838f
 
-- name: 另一个测试服务
-  description: 另一个测试的描述
-  url: http://www.itc.ynu.edu.cn
+- name: 重置上网账号密码
+  description: 在您正确线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
+  url: https://jiandaoyun.com/f/5b0cbe28e7d0143a005810a4
   
 - name: 信息化服务门户
   description: 测试
