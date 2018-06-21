@@ -41,3 +41,7 @@
 - name: 校历
   url: http://www.ynu.edu.cn/0000.jpg
   label: 查看
+  
+- name: 校车时刻表
+  url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
+  label: 查看
