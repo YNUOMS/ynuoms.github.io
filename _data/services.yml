@@ -1,3 +1,11 @@
+- name: 校历
+  url: http://www.ynu.edu.cn/0000.jpg
+  label: 查看
+  
+- name: 校车时刻表
+  url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
+  label: 查看
+
 - name: 绑定一卡通APP手机号
   description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
   url: https://jiandaoyun.com/f/5afe3659f9e8ef12024a838f
@@ -38,10 +46,3 @@
   url: https://jiandaoyun.com/f/5b0e4b40ebd6f565fe338b7e
   label: 提交申请
   
-- name: 校历
-  url: http://www.ynu.edu.cn/0000.jpg
-  label: 查看
-  
-- name: 校车时刻表
-  url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
-  label: 查看
