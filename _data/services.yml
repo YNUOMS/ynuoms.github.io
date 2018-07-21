@@ -2,9 +2,9 @@
   url: http://www.ynu.edu.cn/0000.jpg
   label: 查看
   
-- name: 校车时刻表
+- name: 校车时刻表（暑假）
   url: http://www.hqjt.ynu.edu.cn/m/2201.jhtml
-  label: 查看
+  label: 查看：转载自后勤集团网站
 
 - name: 绑定一卡通APP手机号
   description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
