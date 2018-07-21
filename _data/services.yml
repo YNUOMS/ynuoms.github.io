@@ -3,7 +3,7 @@
   label: 查看
   
 - name: 校车时刻表
-  url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
+  url: http://www.hqjt.ynu.edu.cn/m/2201.jhtml
   label: 查看
 
 - name: 绑定一卡通APP手机号
