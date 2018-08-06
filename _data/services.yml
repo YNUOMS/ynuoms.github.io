@@ -49,3 +49,7 @@
 - name: 下载一卡通APP
   url: http://www.ynu.edu.cn/info/1005/4679.htm
   label: 查看
+  
+- name: 下载VPN客户端
+  url: http://www.itc.ynu.edu.cn/html/index.html?action=link&nodeurl=../info/1015/1014.htm&nodetype=service
+  label: 查看
