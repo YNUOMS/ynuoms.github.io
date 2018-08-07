@@ -51,5 +51,6 @@
   label: 查看：
   
 - name: VPN使用指南
+  description: 目前我校VPN只支持windows系统的PC机，手机、以及Linux、mac系统的电脑暂不支持；VPN服务目前只提供给我校在职教职工和在读博士生使用；
   url: http://www.itc.ynu.edu.cn/html/index.html?action=link&nodeurl=../info/1015/1014.htm&nodetype=service
   label: 查看：转载自信息技术中心网站
