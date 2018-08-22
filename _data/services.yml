@@ -2,8 +2,8 @@
   url: http://www.ynu.edu.cn/0000.jpg
   label: 查看
   
-- name: 校车、食堂服务时间（暑假）
-  url: http://www.hqjt.ynu.edu.cn/m/2201.jhtml
+- name: 校车时刻表
+  url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
   label: 查看：转载自后勤集团网站
 
 - name: 绑定一卡通APP手机号
