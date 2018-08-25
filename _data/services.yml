@@ -48,7 +48,7 @@
   
 - name: 下载一卡通APP
   url: http://www.ynu.edu.cn/info/1005/4679.htm
-  label: 查看：
+  label: 查看：转载自学校官网
   
 - name: VPN使用指南
   description: 目前我校VPN只支持windows系统的PC机，手机、以及Linux、mac系统的电脑暂不支持；VPN服务目前只提供给我校在职教职工和在读博士生使用；
