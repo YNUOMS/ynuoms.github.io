@@ -46,6 +46,11 @@
   url: https://jiandaoyun.com/f/5b0e4b40ebd6f565fe338b7e
   label: 提交申请
   
+- name: 校内应用系统登录异常
+  description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
+  url: https://jiandaoyun.com/f/5bbc0dbacd8038436f786fc1
+  label: 提交申请
+  
 - name: 下载一卡通APP
   url: http://www.ynu.edu.cn/info/1005/4679.htm
   label: 查看：转载自学校官网
