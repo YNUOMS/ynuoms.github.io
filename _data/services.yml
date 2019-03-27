@@ -1,7 +1,4 @@
-- name: 2019年春季学期信息技术中心运维服务部学生助管员岗位报名
-  description: 在你如实在线提交报名申请之后，请注意接收信息技术中心运维服务部的来电或短信通知
-  url: https://link.jiandaoyun.com/f/5c905fb1dd2202114870beff
-  label: 点击报名
+
   
 - name: 校历
   url: https://www.ynu.edu.cn/0000.jpg
@@ -64,3 +61,8 @@
   description: 目前我校VPN只支持windows系统的PC机，手机、以及Linux、mac系统的电脑暂不支持；VPN服务目前只提供给我校在职教职工和在读博士生使用；
   url: http://www.itc.ynu.edu.cn/html/index.html?action=link&nodeurl=../info/1015/1014.htm&nodetype=service
   label: 查看：转载自信息技术中心网站
+  
+  - name: 2019年春季学期信息技术中心运维服务部学生助管员岗位报名
+  description: 在你如实在线提交报名申请之后，请注意接收信息技术中心运维服务部的来电或短信通知
+  url: https://link.jiandaoyun.com/f/5c905fb1dd2202114870beff
+  label: 点击报名
