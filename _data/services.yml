@@ -1,3 +1,8 @@
+- name: 2019年秋季学期信息技术中心呈贡校区学生助管员报名入口
+  description: 在你如实在线提交报名申请之后，请注意接收信息技术中心运维服务部的来电或短信通知
+  url: https://u2idi114qf.jiandaoyun.com/f/5d8094fa40bac26538b76354
+  label: 点击报名
+  
 - name: 校历
   url: https://www.ynu.edu.cn/0000.jpg
   label: 查看
@@ -10,12 +15,6 @@
   description: 若你当前没有忘记统一身份认证密码，可通过此链接自助绑定手机号，今后忘记密码可用手机验证码找回。
   url: https://ids.ynu.edu.cn/authserver/
   label: 点击进入
-  
-  
-- name: 2019年秋季学期信息技术中心呈贡校区学生助管员报名入口
-  description: 在你如实在线提交报名申请之后，请注意接收信息技术中心运维服务部的来电或短信通知
-  url: https://u2idi114qf.jiandaoyun.com/f/5d8094fa40bac26538b76354
-  label: 点击报名
   
 - name: 校园网络问题
   description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
