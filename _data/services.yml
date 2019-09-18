@@ -11,6 +11,16 @@
   url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
   label: 查看：转载自后勤集团网站
   
+- name: 统一身份认证绑定手机号&电子邮箱（在校师生）
+  description: 若您已经忘记统一身份认证密码，并且没有绑定手机号或电子邮箱，则点击此处提交申请。在您正确提交申请之后请耐心等待，在收到我们绑定成功的回复之后，您可以通过点击“忘记密码”来通过手机号找回密码
+  url: https://jiandaoyun.com/f/5b0e4413b49386633741c1f6
+  label: 提交申请
+  
+- name: 统一身份认证绑定手机号&电子邮箱（外聘人员）
+  description: 若您已经忘记统一身份认证密码，并且没有绑定手机号或电子邮箱，则点击此处提交申请。在您正确提交申请之后请耐心等待，在收到我们绑定成功的回复之后，您可以通过点击“忘记密码”来通过手机号找回密码
+  url: https://jiandaoyun.com/f/5b0e47df54138a7e02de04e2
+  label: 提交申请
+  
 - name: 统一认证自助绑定手机号服务
   description: 若你当前没有忘记统一身份认证密码，可通过此链接自助绑定手机号，今后忘记密码可用手机验证码找回。
   url: https://ids.ynu.edu.cn/authserver/
@@ -51,15 +61,6 @@
   url: https://jiandaoyun.com/f/5b0cc9ce2c7b1a6f6733d5bd
   label: 提交申请
   
-- name: 统一身份认证绑定手机号&电子邮箱（在校师生）
-  description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
-  url: https://jiandaoyun.com/f/5b0e4413b49386633741c1f6
-  label: 提交申请
-  
-- name: 统一身份认证绑定手机号&电子邮箱（外聘人员）
-  description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
-  url: https://jiandaoyun.com/f/5b0e47df54138a7e02de04e2
-  label: 提交申请
   
 - name: 下载一卡通APP
   url: http://www.ynu.edu.cn/info/1005/4679.htm
