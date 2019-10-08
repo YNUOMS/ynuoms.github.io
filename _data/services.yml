@@ -1,8 +1,3 @@
-- name: 2019年秋季学期信息技术中心呈贡校区学生助管员报名入口
-  description: 在你如实在线提交报名申请之后，请注意接收信息技术中心运维服务部的来电或短信通知
-  url: https://u2idi114qf.jiandaoyun.com/f/5d8094fa40bac26538b76354
-  label: 点击报名
-  
 - name: 校历
   url: https://www.ynu.edu.cn/0000.jpg
   label: 查看
@@ -61,15 +56,9 @@
   url: https://jiandaoyun.com/f/5b0cc9ce2c7b1a6f6733d5bd
   label: 提交申请
   
-  
 - name: 下载一卡通APP
   url: http://www.ynu.edu.cn/info/1005/4679.htm
   label: 查看：转载自学校官网
-  
-- name: VPN使用指南
-  description: 目前我校VPN只支持windows系统的PC机，手机、以及Linux、mac系统的电脑暂不支持；VPN服务目前只提供给我校在职教职工和在读博士生使用；
-  url: http://www.itc.ynu.edu.cn/html/index.html?action=link&nodeurl=../info/1015/1014.htm&nodetype=service
-  label: 查看：转载自信息技术中心网站
 
 - name: 意见和建议
   description: 如果您对我们的服务有什么意见和建议
