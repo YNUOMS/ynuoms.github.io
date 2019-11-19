@@ -16,7 +16,7 @@
   url: https://jiandaoyun.com/f/5b0e47df54138a7e02de04e2
   label: 提交申请
   
-- name: 统一认证自助绑定手机号服务
+- name: 统一身份认证自助绑定手机号服务
   description: 若你当前没有忘记统一身份认证密码，可通过此链接自助绑定手机号，今后忘记密码可用手机验证码找回。
   url: https://ids.ynu.edu.cn/authserver/
   label: 点击进入
@@ -31,12 +31,12 @@
   url: https://jiandaoyun.com/f/5bbc0dbacd8038436f786fc1
   label: 提交申请
 
-- name: 绑定一卡通APP手机号
+- name: 一卡通APP重新绑定手机号
   description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
   url: https://jiandaoyun.com/f/5afe3659f9e8ef12024a838f
   label: 提交申请
 
-- name: 重置上网账号密码
+- name: 重置上网账号（VPN账号）密码
   description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
   url: https://jiandaoyun.com/f/5b0cbe28e7d0143a005810a4
   label: 提交申请
