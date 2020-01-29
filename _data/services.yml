@@ -1,11 +1,3 @@
-- name: 校历
-  url: https://www.ynu.edu.cn/0000.jpg
-  label: 查看
-  
-- name: 校车时刻表
-  url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
-  label: 查看：转载自后勤集团网站
-  
 - name: 统一身份认证绑定手机号&电子邮箱（在校师生）
   description: 若您已经忘记统一身份认证密码，并且没有绑定手机号或电子邮箱，则点击此处提交申请。在您正确提交申请之后请耐心等待，在收到我们绑定成功的回复之后，您可以在统一身份认证登录页面点击“忘记密码”来通过手机号找回密码。
   url: https://jiandaoyun.com/f/5b0e4413b49386633741c1f6
@@ -56,10 +48,6 @@
   url: https://jiandaoyun.com/f/5b0cc9ce2c7b1a6f6733d5bd
   label: 提交申请
   
-- name: 下载一卡通APP
-  url: http://www.ynu.edu.cn/info/1005/4679.htm
-  label: 查看：转载自学校官网
-  
 - name: 硕士研究生申请VPN账号（疫情期间面向硕士研究生临时开放）
   url: https://u2idi114qf.jiandaoyun.com/f/5e30668aa5a0a10006719fd9
   label: 提交申请
@@ -68,3 +56,15 @@
   description: 如果您对我们的服务有什么意见和建议
   url: https://link.jiandaoyun.com/f/5c9b04f13a8450248195bd22
   label: 点击提交
+
+- name: 下载一卡通APP
+  url: http://www.ynu.edu.cn/info/1005/4679.htm
+  label: 查看：转载自学校官网
+
+- name: 校历
+  url: https://www.ynu.edu.cn/0000.jpg
+  label: 查看
+  
+- name: 校车时刻表
+  url: http://www.hqjt.ynu.edu.cn/schoolbus/675.jhtml
+  label: 查看：转载自后勤集团网站
