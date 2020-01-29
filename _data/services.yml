@@ -9,8 +9,9 @@
   label: 提交申请
 
 - name: 硕士研究生申请VPN账号（疫情期间面向硕士研究生临时开放）
-  url: https://u2idi114qf.jiandaoyun.com/f/5e30668aa5a0a10006719fd9
-  label: 提交申请
+  description: 信息技术中心已经为我校所有全日制学术硕士和专业硕士临时开通了VPN账号，无需另行申请。
+  url: http://65031141.ynu.edu.cn/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/2019/09/03/%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6VPN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html
+  label: 点击查看VPN使用教程
   
 - name: 申请电子邮箱
   description: 您正确在线提交申请之后，请注意接收信息技术中心运维服务部的来电或短信，我们会在工作时间为您处理并和您联系
