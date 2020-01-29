@@ -59,6 +59,10 @@
 - name: 下载一卡通APP
   url: http://www.ynu.edu.cn/info/1005/4679.htm
   label: 查看：转载自学校官网
+  
+- name: 硕士研究生申请VPN账号（疫情期间面向硕士研究生临时开放）
+  url: https://u2idi114qf.jiandaoyun.com/f/5e30668aa5a0a10006719fd9
+  label: 提交申请
 
 - name: 意见和建议
   description: 如果您对我们的服务有什么意见和建议
