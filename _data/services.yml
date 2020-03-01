@@ -1,3 +1,8 @@
+- name: 疫情期间Zoom平台云大邮箱批量申请
+  description: 疫情期间如果您使用Zoom平台在线教学，可以请学院统一收集老师信息，填报“Zoom平台云大邮箱批量申请表”，然后通过OA发给信息技术中心，左继蓉老师账号，统一从后台批量处理。
+  url: http://www.itc.ynu.edu.cn/html/index.html?action=link&nodeurl=../info/1014/1194.htm&nodetype=service
+  label: 点击查看详情
+
 - name: 统一身份认证绑定手机号&电子邮箱（在校师生）
   description: 若您已经忘记统一身份认证密码，并且没有绑定手机号或电子邮箱，则点击此处提交申请。在您正确提交申请之后请耐心等待，在收到我们绑定成功的回复之后，您可以在统一身份认证登录页面点击“忘记密码”来通过手机号找回密码。
   url: https://jiandaoyun.com/f/5b0e4413b49386633741c1f6
